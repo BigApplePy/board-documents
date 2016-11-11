@@ -1,2 +1,2 @@
 # board-documents
-Public documents for BigApplePy 501(c)3
+Public documents for BigApplePy
